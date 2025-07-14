@@ -1,6 +1,5 @@
 # Travel Agency Database Project
 
-## Overview
 This project was developed as part of the Database Lab course. The goal was to design and implement
 a relational database system for a travel agency and to create a GUI-based application using Java and JDBC that interacts with the database.
 
